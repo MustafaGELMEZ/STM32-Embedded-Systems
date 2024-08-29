@@ -1,0 +1,10 @@
+11:08:38 **** Incremental Build of configuration Debug for project Buton_sirali_led ****
+make -j12 all 
+arm-none-eabi-size  Buton_sirali_led.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12712	     16	   3456	  16184	   3f38	Buton_sirali_led.elf
+Finished building: default.size.stdout
+ 
+
+11:08:38 Build Finished. 0 errors, 0 warnings. (took 255ms)
+

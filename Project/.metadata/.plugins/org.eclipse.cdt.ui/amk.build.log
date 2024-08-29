@@ -1,0 +1,10 @@
+19:35:53 **** Incremental Build of configuration Debug for project amk ****
+make -j12 all 
+arm-none-eabi-size  amk.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12800	     12	   3452	  16264	   3f88	amk.elf
+Finished building: default.size.stdout
+ 
+
+19:35:54 Build Finished. 0 errors, 0 warnings. (took 247ms)
+

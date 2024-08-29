@@ -1,0 +1,10 @@
+22:02:10 **** Build of configuration Debug for project 03_karasimsek_led ****
+make -j12 all 
+arm-none-eabi-size  03_karasimsek_led.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12820	     16	   3456	  16292	   3fa4	03_karasimsek_led.elf
+Finished building: default.size.stdout
+ 
+
+22:02:11 Build Finished. 0 errors, 0 warnings. (took 538ms)
+

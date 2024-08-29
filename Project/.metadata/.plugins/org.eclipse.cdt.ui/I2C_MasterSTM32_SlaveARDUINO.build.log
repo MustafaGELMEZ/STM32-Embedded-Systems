@@ -1,0 +1,10 @@
+15:37:49 **** Incremental Build of configuration Debug for project I2C_MasterSTM32_SlaveARDUINO ****
+make -j12 all 
+arm-none-eabi-size  I2C_MasterSTM32_SlaveARDUINO.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17168	     12	   3540	  20720	   50f0	I2C_MasterSTM32_SlaveARDUINO.elf
+Finished building: default.size.stdout
+ 
+
+15:37:49 Build Finished. 0 errors, 0 warnings. (took 249ms)
+

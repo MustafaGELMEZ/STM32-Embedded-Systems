@@ -1,0 +1,7 @@
+21:45:18 **** Clean-only build of configuration Debug for project UART_Transmitter ****
+make -j12 clean 
+make: *** No rule to make target 'clean'.  Stop.
+"make -j12 clean" terminated with exit code 2. Build might be incomplete.
+
+21:45:18 Build Failed. 1 errors, 0 warnings. (took 110ms)
+

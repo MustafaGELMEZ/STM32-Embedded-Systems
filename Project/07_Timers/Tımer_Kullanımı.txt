@@ -1,0 +1,8 @@
+RCC-> Crsetal/seramik 
+SYS-> Serial Wire 
+Timers -> Timer şeç -> Clock Source = Internal Clock -> parametre ayarlarını yap
+Şecilen tım clock configrasyonunu ayarla ve hangi bus bağlı olduğunu kontrol et .
+
+
+main.c
+Drivers ->CMSIS drivera> hal_tim.c -> PeriodElapsedCallBack fonksiyonunu main içine kopyala.
